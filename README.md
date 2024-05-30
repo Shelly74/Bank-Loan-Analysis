@@ -17,7 +17,7 @@ This project delves into a detailed analysis of bank loan data, utilizing SQL fo
 
 ## Data Source
 
-The project is based on a comprehensive [dataset](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+The project is based on a comprehensive stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ---
 
@@ -70,17 +70,6 @@ The project is based on a comprehensive [dataset](https://github.com/virajbhutad
 This project offers valuable insights into the bank's loan portfolio, highlighting areas of strength and opportunities for improvement. It serves as a robust model for data-driven decision-making in financial services.
 
 ---
-
-## Key Visualizations
-
-### Summary Dashboard
-![summary](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/05d19ea3-9f54-4dbb-b4f3-b3e22c57d47c)
-
-### Overview Dashboard
-![overview](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/51acbbeb-90ea-4d62-bceb-82178e741e98)
-
-### Detailed Insights Dashboard
-![details](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/45f862e3-1205-4899-955e-79c3b7176673)
 
 ---
 
@@ -178,12 +167,3 @@ If you'd like to contribute to this project, please follow the standard fork, br
 
 ---
 
-## License
-
-This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
-
----
-
-## Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
